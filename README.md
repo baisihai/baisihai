@@ -7,7 +7,7 @@ AI | Data Science | Data Engineer | Full-Stack Developer |Tech Enthusiast
   <a href="https://github.com/baisihai" target="_blank">GitHub</a>.
 </p>
 
-<h1>🌐 Connect With Me</h1> <br />
+<b>🌐 Connect With Me</b><br />
 💌 Email baisihai2 @ gmail-dot-com<br />
 <img src="https://aifxtechnologies.com/github/bsh/img/linkedin-logo-20.png" alt="LinkedIn" title="LinkedIn" style="width: 20px;" /> <a href="https://www.linkedin.com/in/sihai-bai-284097b/" target="_blank">https://www.linkedin.com/in/sihai-bai-284097b/</a> <br />
 <br />
