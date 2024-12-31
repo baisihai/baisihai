@@ -1,7 +1,7 @@
 🌟 Hi, I'm Sihai.<br />
 AI | Data Science | Data Engineer | Full-Stack Developer |Tech Enthusiast
 
-🎥 Social Media & Open Source
+🎥 Social Media & Open Source<br />
 Explore my open-source code for posts and projects on <a href="https://github.com/baisihai" target="_blank">GitHub</a>.<br />
 <br />
 <b>🌐 Connect With Me</b><br />
