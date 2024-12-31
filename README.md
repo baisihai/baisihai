@@ -2,11 +2,8 @@
 AI | Data Science | Data Engineer | Full-Stack Developer |Tech Enthusiast
 
 🎥 Social Media & Open Source
-<p>
-  Explore my open-source code for posts and projects on 
-  <a href="https://github.com/baisihai" target="_blank">GitHub</a>.
-</p>
-
+Explore my open-source code for posts and projects on <a href="https://github.com/baisihai" target="_blank">GitHub</a>.<br />
+<br />
 <b>🌐 Connect With Me</b><br />
 Email: baisihai2 @ gmail-dot-com<br />
 <a href="https://www.linkedin.com/in/sihai-bai-284097b/" target="_blank">https://www.linkedin.com/in/sihai-bai-284097b/</a> <br />
