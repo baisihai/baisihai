@@ -11,6 +11,9 @@ Email: baisihai2 @ gmail-dot-com<br />
 <h1>💻 Tech Stack</h1> <br />
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap; padding: 20px;">
     <picture>
+        <img src="https://raw.githubusercontent.com/baisihai/baisihai/refs/heads/main/media/python-logo.png" alt="Python" title="Python" style="width: 50px;" />
+    </picture>
+    <picture>
         <img src="https://aifxtechnologies.com/github/bsh/img/python-logo.png" alt="Python" title="Python" style="width: 50px;" />
     </picture>
     <picture>
